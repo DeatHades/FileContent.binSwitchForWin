@@ -1,0 +1,3 @@
+# FileContent.binSwitchForWin
+Windows工具
+此工具转载自XDA论坛感谢XDA论坛，感谢开发此工具的大神
